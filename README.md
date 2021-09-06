@@ -1,2 +1,2 @@
 # Pyramid-Pattern
-open source lab week 1
+Open Source Lab Week 1
